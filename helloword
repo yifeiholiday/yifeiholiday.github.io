@@ -26,12 +26,19 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
+#hello world
 
+##欢迎一霏来到自己的博客
+你可以在这里写自己的东西，通过**yifeiholiday.github.io**访问。
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
+<h1 id="helloworld">hello world</h1>
 
+<h2 id="">欢迎一霏来到自己的博客</h2>
+
+<p>你可以在这里写自己的东西，通过<strong>yifeiholiday.github.io</strong>访问。</p>
 <!-- content end -->
 </div>
 <br>
